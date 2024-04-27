@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;FreeRTOS_Projects&apos;" deleteContents="false" description="Delete resource &apos;FreeRTOS_Projects&apos;" element1="/FreeRTOS_Projects" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1712940055362"/>&#x0A;<refactoring comment="Rename resource &apos;FreeRTOSProjects&apos; to &apos;001Tasks&apos;" description="Rename resource &apos;FreeRTOSProjects&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/FreeRTOSProjects" name="001Tasks" stamp="1712940317647" updateReferences="true"/>
+</session>

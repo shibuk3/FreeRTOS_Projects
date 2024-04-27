@@ -1,0 +1,48 @@
+2024-04-13 01:01:06,339 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-13 01:01:08,341 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 3273mS.
+2024-04-13 01:01:08,342 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-13 01:01:08,343 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-13 01:10:30,709 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2024-04-13 08:18:18,467 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2024-04-13 08:18:21,339 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2024-04-13 08:18:23,144 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2024-04-13 08:18:25,833 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2024-04-13 16:10:30,547 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2024-04-13 16:10:36,351 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2024-04-13 23:38:51,974 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844518624 Bytes (1073741824)
+2024-04-13 23:38:53,864 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 867587832 Bytes (1073741824)
+2024-04-13 23:38:54,125 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 924430632 Bytes (1073741824)
+2024-04-13 23:38:54,340 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-13 23:38:54,340 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-13 23:38:54,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-13 23:38:54,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-13 23:38:54,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-13 23:38:54,342 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-13 23:38:54,490 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\license.tmp_save
+2024-04-13 23:38:54,578 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\license.tmp
+2024-04-13 23:38:54,590 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\gpio.tmp_save
+2024-04-13 23:38:54,688 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\gpio.tmp
+2024-04-13 23:38:54,736 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_it.c_save
+2024-04-13 23:38:54,980 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_it.c
+2024-04-13 23:38:54,998 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\stm32f4xx_it.h_save
+2024-04-13 23:38:55,069 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\stm32f4xx_it.h
+2024-04-13 23:38:55,090 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-13 23:38:55,233 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_hal_msp.c
+2024-04-13 23:38:55,252 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\system.tmp_save
+2024-04-13 23:38:55,326 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\MXTmpFiles\system.tmp
+2024-04-13 23:38:55,350 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-04-13 23:38:55,450 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-04-13 23:38:55,482 [INFO] CodeEngine:311 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-13 23:38:55,612 [INFO] CodeEngine:335 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-13 23:38:55,674 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\main.h_save
+2024-04-13 23:38:55,787 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Inc\main.h
+2024-04-13 23:38:55,817 [INFO] CodeEngine:255 - oldGeneratedFile, E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\main.c_save
+2024-04-13 23:38:55,923 [INFO] CodeEngine:279 - Generated code: E:\coursera\workspace\RTOSWorkspace\001Tasks\Core\Src\main.c
+2024-04-13 23:38:56,297 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 140mS.
+2024-04-13 23:38:56,298 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-13 23:38:56,453 [INFO] ConfigFileManager:1495 - The Die is : DIE431
+2024-04-13 23:38:57,467 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1169mS.
+2024-04-13 23:38:57,468 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-13 23:38:57,468 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-13 23:38:59,899 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-13 23:55:43,053 [ERROR] AdobePublisher:183 - Exception while getting the server answer: java.net.SocketTimeoutException: Read timed out

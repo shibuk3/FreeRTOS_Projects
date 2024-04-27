@@ -1,0 +1,26 @@
+/*
+ * led_effect.c
+ *
+ *  Created on: Apr 21, 2024
+ *      Author: shibu
+ */
+
+
+#include "main.h"
+
+void led_effect_stop(void)
+{
+	xTimerStop(handle_led_timer,portMAX_DELAY);
+}
+
+void led_effect()
+{
+	led_effect_stop();
+	xTimerStart(handle_led_timer,portLED_DELAY);
+}
+
+void LED_effect1(void)
+{
+	static int flag = 1;
+	(flag ^= 1) ? turn_off_led() : turn_on_led();
+}
